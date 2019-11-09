@@ -1,0 +1,15 @@
+topic: ~verbal()
+language: enu
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+u:(I am upset) Everything will be right! Do your best and believe in youself
+
+u:(I want to give up) If you are tired, take a rest. But keep doing it! You can do it!
